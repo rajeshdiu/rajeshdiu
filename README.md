@@ -1,6 +1,6 @@
-![Data scientist](https://scontent.fdac134-1.fna.fbcdn.net/v/t1.6435-9/94703515_2554958184772912_3146341866790715392_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGBn7egSpHSa21seOroASv5qcRuG26oTFSpxG4bbqhMVM2p6e42vXhuJMTJkE368dIVVpAjN4ZKyLY-xRmnXCKP&_nc_ohc=nTiLJJGXeB8AX-jhGkF&_nc_ht=scontent.fdac134-1.fna&oh=00_AT_3UAicqrDy2kve9fE1YDQSChzWJbm8k-68qFCa6a3M5A&oe=62C81439)
+
 ### Hi there 👋, I'm Rajesh
-#### Data scientist
+
 
 Hello,
 I completed BSC (Eng) from Daffodil International University (CSE). My favorite topic is Machine Learning, I love dealing with it, it's a great subject. I think everything seems to be data these days. I have expertise in Data Science, Data Visualization, Data Wrangling, Data exploration, and Data extraction. I have deep knowledge of Python, Java, MySQL, and C. Basic knowledge of Statistics, R, JavaScript, and Web Development. I always try to solve real-life problems by developing Machine Learning. Everybody pray for me so that I can fulfill my all responsibility and I will try my own efforts. 
