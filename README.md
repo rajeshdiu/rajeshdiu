@@ -67,12 +67,39 @@ I’m open to collaborations on **Machine Learning, Data Science, or Web Develop
 
 ---
 
+## 🌟 Popular Repositories
+
+<p align="left">
+  <a href="https://github.com/rajeshdiu/Basic-CRUD-Operation-On-Hospital-Management-System-NSDA_B6">
+    <img alt="Hospital Management System" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshdiu&repo=Basic-CRUD-Operation-On-Hospital-Management-System-NSDA_B6&theme=radical" />
+  </a>
+  <a href="https://github.com/rajeshdiu/DRF-API-Authentication-with-Job-Portal">
+    <img alt="DRF API Auth" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshdiu&repo=DRF-API-Authentication-with-Job-Portal&theme=radical" />
+  </a>
+  <a href="https://github.com/rajeshdiu/To-Do-List-Djagno-And-React">
+    <img alt="To-Do List Django & React" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshdiu&repo=To-Do-List-Djagno-And-React&theme=radical" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshdiu&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshdiu&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshdiu&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+## 📈 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshdiu&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+> **56 contributions in the last year**  
+> Activity includes commits, pull requests, issues, and code review in 24+ repositories.  
 
 ---
 
