@@ -4,7 +4,7 @@ I'm a **Django & Python Web Developer** with a **BSc (Eng) in CSE** from Daffodi
 I specialize in **Machine Learning, Data Science, Data Visualization, Data Wrangling, Data Exploration, and Data Extraction**.  
 
 🌱 I love applying ML to **solve real-world problems**.  
-💻 Proficient in **Python, Django, Java, MySQL, and C**.  
+💻 Proficient in **Python, Django, Java, MySQL, Postgres SQL, and C**.  
 🎯 Always learning **Deep Learning & AI technologies**.  
 ❤️ Volunteering with special needs children and traveling are my passions.
 
@@ -15,17 +15,16 @@ I specialize in **Machine Learning, Data Science, Data Visualization, Data Wrang
 **Programming & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-000000?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-**Data Science & ML**  
-![Data Science](https://img.shields.io/badge/Data%20Science-FF6F61?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B0082?style=for-the-badge)
 
 **Databases & Tools**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -100,6 +99,19 @@ I’m open to collaborations on **Machine Learning, Data Science, or Web Develop
 
 > **56 contributions in the last year**  
 > Includes commits, pull requests, issues, and code review in 24+ repositories.
+
+---
+
+## 🏋️ Activity Overview
+
+| Type | Percentage |
+|------|------------|
+| **Commits** | 94% |
+| **Pull Requests** | 0% |
+| **Issues** | 6% |
+| **Code Reviews** | — |
+
+> This summarizes your **overall contribution activity** in the last year.
 
 ---
 
