@@ -68,12 +68,14 @@
 
 ### 🏆 Awards & Certifications
 
-- 🏅 **BITM Project Champion** – *1st Prize for School Management System*  
-- 📜 **Certified Trainer & Assessor (ILO – NSDA)**  
-- 💻 **Web Application Development (BITM SEIP)**  
-- 🎖 **Python, SQL, Problem Solving** – *HackerRank*  
-- 🧠 **CompTIA A+ Certification – NEW HORIZONS**  
-- 🎓 **Data Science & AI Career Bootcamp – DataMites**
+<p align="center">
+  <img src="https://img.shields.io/badge/BITM_Project_Champion-1st%20Prize-blue?style=for-the-badge&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Certified_Trainer_&_Assessor-ILO_NSDA-green?style=for-the-badge&logo=read-the-docs" />
+  <img src="https://img.shields.io/badge/Web_Application_Development-BITM_SEIP-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/Python_SQL_Problem_Solving-HackerRank-purple?style=for-the-badge&logo=hackerrank" />
+  <img src="https://img.shields.io/badge/CompTIA_A%2B-NEW_HORIZONS-red?style=for-the-badge&logo=compass" />
+  <img src="https://img.shields.io/badge/Data_Science_&_AI_Bootcamp-DataMites-blueviolet?style=for-the-badge&logo=databricks" />
+</p>
 
 ---
 
