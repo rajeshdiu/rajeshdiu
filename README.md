@@ -92,9 +92,7 @@
   <a href="https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/18534" target="_blank">
     <img alt="IJASEIT 2023" src="https://img.shields.io/badge/IJASEIT-2023-red?style=for-the-badge&logo=researchgate" />
   </a>
-  <a href="https://www.sciencedirect.com/science/article/pii/S2352340923005450" target="_blank">
-    <img alt="Elsevier Q2 2023" src="https://img.shields.io/badge/Elsevier-Q2-2023-blueviolet?style=for-the-badge&logo=elsevier" />
-  </a>
+ 
   <a href="https://beei.org/index.php/EEI/article/view/7617" target="_blank">
     <img alt="BEEI 2023" src="https://img.shields.io/badge/BEEI-2023-yellow?style=for-the-badge&logo=researchgate" />
   </a>
