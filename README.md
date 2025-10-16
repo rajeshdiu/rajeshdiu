@@ -1,7 +1,7 @@
 <!-- Rajesh Kumar Das - Animated GitHub Profile -->
 
 <h1 align="center">
-  👋 Hi there, I'm <span style="color:#0ef;">Rajesh Kumar Das</span>
+  👋 Hi there, I'm <span style="color:#000000;">Rajesh Kumar Das</span>
 </h1>
 <h3 align="center">Backend Developer (Django) | Data Scientist | Researcher | Trainer </h3>
 
