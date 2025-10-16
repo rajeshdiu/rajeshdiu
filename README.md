@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rajesh Kumar Das
 
 **Lecturer | ML Engineer | Researcher | Data Scientist**  
-Dhaka, Bangladesh | B+ | Single | DOB: 29/09/1997  
+Dhaka, Bangladesh | B+ | Married | 
 
 📧 rajeshcpi1212@gmail.com | 📱 +8801862052815  
 
