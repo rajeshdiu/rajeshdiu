@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Rajesh
 
-![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
 I'm a **Django & Python Web Developer** with a **BSc (Eng) in CSE** from Daffodil International University.  
 I specialize in **Machine Learning, Data Science, Data Visualization, Data Wrangling, Data Exploration, and Data Extraction**.  
 
@@ -31,7 +29,6 @@ I specialize in **Machine Learning, Data Science, Data Visualization, Data Wrang
 ---
 
 ## 🔭 Currently Working On
-
 - **Trainer** at DIPTI – *Web Application Development With Python*  
 - **Assistant IT Officer**  
 - Learning **Deep Learning & AI**
@@ -39,7 +36,6 @@ I specialize in **Machine Learning, Data Science, Data Visualization, Data Wrang
 ---
 
 ## 👯 Let's Collaborate
-
 I’m open to collaborations on **Machine Learning, Data Science, or Web Development projects**.  
 
 ---
@@ -47,27 +43,27 @@ I’m open to collaborations on **Machine Learning, Data Science, or Web Develop
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/rajeshdiu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rajeshitor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/rajeshdasitor/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/rajeshitor1212/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/rajeshitor"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.youtube.com/c/CreativeCodersbd"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://github.com/rajeshdiu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rajeshitor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/rajeshdasitor/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/rajeshitor1212/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/rajeshitor" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/CreativeCodersbd" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🌟 Popular Repositories (Animated GIFs)
+## 🌟 Popular Repositories
 
 <p align="left">
   <a href="https://github.com/rajeshdiu/Basic-CRUD-Operation-On-Hospital-Management-System-NSDA_B6">
-    <img src="https://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy.gif" alt="Hospital Management GIF" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshdiu&repo=Basic-CRUD-Operation-On-Hospital-Management-System-NSDA_B6&theme=react" />
   </a>
   <a href="https://github.com/rajeshdiu/DRF-API-Authentication-with-Job-Portal">
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="DRF Auth GIF" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshdiu&repo=DRF-API-Authentication-with-Job-Portal&theme=react" />
   </a>
   <a href="https://github.com/rajeshdiu/To-Do-List-Djagno-And-React">
-    <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="To-Do List GIF" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshdiu&repo=To-Do-List-Djagno-And-React&theme=react" />
   </a>
 </p>
 
@@ -76,17 +72,19 @@ I’m open to collaborations on **Machine Learning, Data Science, or Web Develop
 ## 📊 GitHub Stats (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshdiu&show_icons=true&theme=radical&count_private=true&hide=prs&hide_title=true&animate=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshdiu&layout=compact&theme=radical&animate=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshdiu&show_icons=true&theme=react&count_private=true&hide=prs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshdiu&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
 ---
 
-## 📈 Contribution Graph (Animated GIF style)
+## 📈 Contribution Graph (Animated)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshdiu&theme=react-dark&hide_border=true&color=0e75b6" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshdiu&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
+
+> **56 contributions in the last year**  
 
 ---
 
@@ -101,18 +99,18 @@ I’m open to collaborations on **Machine Learning, Data Science, or Web Develop
 
 ---
 
-## 🏆 Achievements & Highlights (GIF Trophies)
+## 🏆 Achievements & Highlights (Animated Trophies)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Trophies GIF" width="700"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rajeshdiu&theme=react&no-frame=true&column=7" alt="Trophies" />
 </p>
 
 ---
 
-## 👨‍💻 Languages & Tools Pie Chart (Animated GIF)
+## 👨‍💻 Languages & Tools Pie Chart (Animated)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Languages Pie Chart GIF" width="700"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshdiu&langs_count=8&layout=pie&theme=react" alt="Languages Pie Chart" />
 </p>
 
 ---
