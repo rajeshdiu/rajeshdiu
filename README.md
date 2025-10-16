@@ -24,7 +24,7 @@ My main goal is to **apply Machine Learning to solve practical problems**, creat
 
 ## 🔭 Currently Working On
 
-- **Trainer** at DIPTI – *Web Application Development with Python*  
+- **Lead Trainer** at DIPTI – *Web Application Development with Python*  
 - **Assistant IT Officer**  
 - Learning **Deep Learning**
 
