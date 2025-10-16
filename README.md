@@ -81,18 +81,14 @@
 ### 📖 Research Publications
 
 <p align="center">
-  <a href="https://aclanthology.org/2023.banglalp-1.30/" target="_blank">
-    <img alt="ICL BanglaLP 2023" src="https://img.shields.io/badge/ICL-BanglaLP-2023-blue?style=for-the-badge&logo=acm" />
-  </a>
+
   <a href="https://www.sciencedirect.com/science/article/pii/S2405844023074893" target="_blank">
     <img alt="Elsevier 2023" src="https://img.shields.io/badge/Elsevier-2023-green?style=for-the-badge&logo=elsevier" />
   </a>
   <a href="https://aclanthology.org/2023.banglalp-1.44/" target="_blank">
     <img alt="BanglaLP 2023" src="https://img.shields.io/badge/BanglaLP-2023-orange?style=for-the-badge&logo=acm" />
   </a>
-  <a href="https://www.sciencedirect.com/science/article/pii/S2405844023074893?ssrnid=4401921&dgcid=SSRN_redirect_SD" target="_blank">
-    <img alt="Elsevier SSRN 2023" src="https://img.shields.io/badge/Elsevier-SSRN-2023-purple?style=for-the-badge&logo=elsevier" />
-  </a>
+  
   <a href="https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/18534" target="_blank">
     <img alt="IJASEIT 2023" src="https://img.shields.io/badge/IJASEIT-2023-red?style=for-the-badge&logo=researchgate" />
   </a>
@@ -102,9 +98,7 @@
   <a href="https://beei.org/index.php/EEI/article/view/7617" target="_blank">
     <img alt="BEEI 2023" src="https://img.shields.io/badge/BEEI-2023-yellow?style=for-the-badge&logo=researchgate" />
   </a>
-  <a href="https://www.sciencedirect.com/science/article/pii/S2405844023074893?ssrnid=4401921&dgcid=SSRN_redirect_SD" target="_blank">
-    <img alt="Elsevier SSRN 2023" src="https://img.shields.io/badge/Elsevier-SSRN-2023-lightblue?style=for-the-badge&logo=elsevier" />
-  </a>
+ 
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px; margin-top: 16px;">
