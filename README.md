@@ -17,7 +17,7 @@
 - 🌍 **Location:** Dhaka, Bangladesh  
 - 📧 **Email:** rajeshcpi1212@gmail.com  
 - 📞 **Phone:** +8801862052815  
-- 💬 **Blood Group:** B+ | **Marital Status:** Single | **DOB:** 29/09/1997  
+- 💬 **Blood Group:** B+ | **Marital Status:** Married 
 
 💡 I am a passionate **Software Engineer & AI Researcher** specializing in:
 
