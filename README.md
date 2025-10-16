@@ -29,86 +29,40 @@
 - **Assistant IT Officer** – *Blue Pineapple Technology*  
 - **Lecturer** – *Machine Learning & Web Development*
 
+### 🚀 Skills & Technologies
+
+<p align="center">
+  <!-- Skills badges -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-ff9900?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
 ---
-<!-- Skills & Projects Section -->
-<section class="max-w-6xl mx-auto px-6 py-12">
-  <!-- Skills -->
-  <div class="mb-12" data-aos="fade-up">
-    <h2 class="text-3xl font-bold text-center mb-6">🚀 Skills & Technologies</h2>
-    <div class="flex flex-wrap justify-center gap-4">
-      <!-- Skill Icons -->
-      <img src="https://skillicons.dev/icons?i=python,django,react,postgresql,mysql,html,css,bootstrap,js,docker,git,github,vscode&perline=6" alt="Skills Icons" class="rounded-lg shadow-lg p-4 bg-gray-900">
-    </div>
-  </div>
 
-  <!-- Projects -->
-  <div data-aos="fade-up" data-aos-delay="150">
-    <h2 class="text-3xl font-bold text-center mb-6">📚 Projects</h2>
-    <p class="text-center text-gray-300 mb-6">🚧 Built with HTML, CSS, Bootstrap, Django, and Machine Learning</p>
+### 📚 Projects
 
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      <!-- Project Card -->
-      <div class="project-card p-6 bg-gray-900 rounded-xl shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-        <h3 class="text-xl font-bold mb-2">🎓 School Management System</h3>
-        <p class="text-gray-400 mb-2">Full-featured web system for managing school data</p>
-        <p class="text-sm text-gray-500 mb-2">Year: 2021</p>
-        <p class="text-sm font-medium">Technology: <span class="text-cyan-400">Python, Django, DRF, MySQL, Bootstrap</span></p>
-      </div>
+🚧 **Built with Python, Django, REST Framework, React & Machine Learning**
 
-      <div class="project-card p-6 bg-gray-900 rounded-xl shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-        <h3 class="text-xl font-bold mb-2">💼 Job Portal Management System</h3>
-        <p class="text-gray-400 mb-2">Job posting & application platform for recruiters and seekers</p>
-        <p class="text-sm text-gray-500 mb-2">Year: 2022</p>
-        <p class="text-sm font-medium">Technology: <span class="text-cyan-400">Python, Django, DRF, React</span></p>
-      </div>
+| Project | Description | Year | Technology |
+|---------|-------------|------|------------|
+| 🎓 **School Management System** | Full-featured web system for managing school data | 2021 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) ![DRF](https://img.shields.io/badge/DRF-ff9900?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap) |
+| 💼 **Job Portal Management System** | Job posting & application platform for recruiters and seekers | 2022 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) ![DRF](https://img.shields.io/badge/DRF-ff9900?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) |
+| 🏫 **Student Management System** | Web app for managing academic grades | 2022 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) ![DRF](https://img.shields.io/badge/DRF-ff9900?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql) |
+| 🍳 **Employee Management System** | Employee management platform with CRUD operations | 2022 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) ![DRF](https://img.shields.io/badge/DRF-ff9900?style=flat-square) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap) |
+| 💬 **Online Review Classification** | ML model for sentiment classification | 2023 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![ML](https://img.shields.io/badge/Machine%20Learning-F7DF1E?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-22D3EE?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square) |
+| ⚽ **BPL Team Winner Prediction** | Predicts winners using ML algorithms | 2023 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![ML](https://img.shields.io/badge/Machine%20Learning-F7DF1E?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square) |
+| 🤖 **Bangla Text Sentiment Analysis (LSTM)** | Deep Learning-based sentiment analyzer | 2023 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-22D3EE?style=flat-square) |
 
-      <div class="project-card p-6 bg-gray-900 rounded-xl shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-        <h3 class="text-xl font-bold mb-2">🏫 Student Management System</h3>
-        <p class="text-gray-400 mb-2">Web app for managing academic grades</p>
-        <p class="text-sm text-gray-500 mb-2">Year: 2022</p>
-        <p class="text-sm font-medium">Technology: <span class="text-cyan-400">Python, Django, DRF, PostgreSQL</span></p>
-      </div>
-
-      <div class="project-card p-6 bg-gray-900 rounded-xl shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-        <h3 class="text-xl font-bold mb-2">🍳 Employee Management System</h3>
-        <p class="text-gray-400 mb-2">Employee management platform with CRUD operations</p>
-        <p class="text-sm text-gray-500 mb-2">Year: 2022</p>
-        <p class="text-sm font-medium">Technology: <span class="text-cyan-400">Python, Django, DRF, Bootstrap</span></p>
-      </div>
-
-      <div class="project-card p-6 bg-gray-900 rounded-xl shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-        <h3 class="text-xl font-bold mb-2">💬 Online Review Classification</h3>
-        <p class="text-gray-400 mb-2">ML model for sentiment classification</p>
-        <p class="text-sm text-gray-500 mb-2">Year: 2023</p>
-        <p class="text-sm font-medium">Technology: <span class="text-cyan-400">Python, Machine Learning, NLP, Scikit-learn</span></p>
-      </div>
-
-      <div class="project-card p-6 bg-gray-900 rounded-xl shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-        <h3 class="text-xl font-bold mb-2">⚽ BPL Team Winner Prediction</h3>
-        <p class="text-gray-400 mb-2">Predicts winners using ML algorithms</p>
-        <p class="text-sm text-gray-500 mb-2">Year: 2023</p>
-        <p class="text-sm font-medium">Technology: <span class="text-cyan-400">Python, Machine Learning, Pandas, Scikit-learn</span></p>
-      </div>
-
-      <div class="project-card p-6 bg-gray-900 rounded-xl shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
-        <h3 class="text-xl font-bold mb-2">🤖 Bangla Text Sentiment Analysis (LSTM)</h3>
-        <p class="text-gray-400 mb-2">Deep Learning-based sentiment analyzer</p>
-        <p class="text-sm text-gray-500 mb-2">Year: 2023</p>
-        <p class="text-sm font-medium">Technology: <span class="text-cyan-400">Python, TensorFlow, Keras, NLP</span></p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Include Tailwind CSS CDN for styling and AOS for animations -->
-<script src="https://cdn.tailwindcss.com"></script>
-<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    AOS.init({ duration: 700, once: true });
-  });
-</script>
 
 ---
 
