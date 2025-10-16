@@ -37,33 +37,21 @@
   <img src="https://skillicons.dev/icons?i=python,django,react,postgresql,mysql,html,css,bootstrap,js,docker,git,github,vscode&perline=6" />
 </p>
 
-**Proficiency:**
-
-| Skill | Level |
-|-------|-------|
-| Python | 95% |
-| Django / DRF | 90% |
-| React | 82% |
-| PostgreSQL / MySQL | 86% |
-| Docker | 75% |
-
----
 
 ### 📚 Projects
 
 🚧 Built with HTML, CSS, Bootstrap, Django, and Machine Learning:
 
-| Project | Description | Year |
-|---------|-------------|------|
-| 🎓 **School Management System** | Full-featured web system for managing school data | 2021 |
-| 💼 **Job Portal Management System** | Job posting & application platform for recruiters and seekers | 2022 |
-| 🏫 **University Grading System** | Web app for managing academic grades | 2022 |
-| ✅ **To-Do List App** | Simple productivity tool using Django & React | 2022 |
-| 🍳 **Recipe Management System** | Recipe sharing platform with search & CRUD | 2022 |
-| 🔥 **Calorie App** | Tracks calories using Django backend | 2022 |
-| 💬 **Online Review Classification** | ML model for sentiment classification | 2023 |
-| ⚽ **BPL Team Winner Prediction** | Predicts winners using ML algorithms | 2023 |
-| 🤖 **Bangla Text Sentiment Analysis (LSTM)** | Deep Learning-based sentiment analyzer | 2023 |
+| Project | Description | Year | Technology |
+|---------|-------------|------|------------|
+| 🎓 **School Management System** | Full-featured web system for managing school data | 2021 | Python, Django, DRF, MySQL, Bootstrap |
+| 💼 **Job Portal Management System** | Job posting & application platform for recruiters and seekers | 2022 | Python, Django, DRF, React |
+| 🏫 **Student Management System** | Web app for managing academic grades | 2022 | Python, Django, DRF, PostgreSQL |
+| 🍳 **Employee Management System** | Employee management platform with CRUD operations | 2022 | Python, Django, DRF, Bootstrap |
+| 💬 **Online Review Classification** | ML model for sentiment classification | 2023 | Python, Machine Learning, NLP, Scikit-learn |
+| ⚽ **BPL Team Winner Prediction** | Predicts winners using ML algorithms | 2023 | Python, Machine Learning, Pandas, Scikit-learn |
+| 🤖 **Bangla Text Sentiment Analysis (LSTM)** | Deep Learning-based sentiment analyzer | 2023 | Python, TensorFlow, Keras, NLP |
+
 
 ---
 
