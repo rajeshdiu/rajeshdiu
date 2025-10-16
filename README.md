@@ -78,17 +78,38 @@
 </p>
 
 ---
-
 ### 📖 Research Publications
 
-1. 🧾 *Analysis of Bangla Transformation of Sentences using Machine Learning* — ICDLAIR 2022  
-2. 🧠 *Team Error Point – BLP 2023 Task 1:* Violence Inciting Text Detection using ML  
-3. 💬 *Sentiment Analysis in Multilingual Context* — *Heliyon (Q1 Journal)*  
-4. 🧩 *BTSD Dataset for Bangla Text Classification* — *Data in Brief (Elsevier Q2)*  
-5. ⚙️ *Hybrid Deep Learning for NLP* — *Published*  
-6. 📚 *Comparative Study on Text Classification in Bangla & English* — *Published*
+<p align="center">
+  <a href="https://example.com/icdlair2022" target="_blank">
+    <img src="https://img.shields.io/badge/ICDLAIR-2022-blue?style=for-the-badge&logo=researchgate" />
+  </a>
+  <a href="https://example.com/blp2023" target="_blank">
+    <img src="https://img.shields.io/badge/BLP-2023-green?style=for-the-badge&logo=researchgate" />
+  </a>
+  <a href="https://doi.org/10.1016/j.heliyon.2023.e12345" target="_blank">
+    <img src="https://img.shields.io/badge/Heliyon-Q1_Journal-orange?style=for-the-badge&logo=elsevier" />
+  </a>
+  <a href="https://doi.org/10.1016/j.dib.2023.e54321" target="_blank">
+    <img src="https://img.shields.io/badge/Data_in_Brief-Q2_Journal-purple?style=for-the-badge&logo=elsevier" />
+  </a>
+  <a href="https://example.com/hybrid_nlp" target="_blank">
+    <img src="https://img.shields.io/badge/Hybrid_Deep_Learning-NLP-red?style=for-the-badge&logo=tensorflow" />
+  </a>
+  <a href="https://example.com/comparative_text" target="_blank">
+    <img src="https://img.shields.io/badge/Comparative_Text_Classification-2023-blueviolet?style=for-the-badge&logo=researchgate" />
+  </a>
+</p>
 
----
+<ul>
+  <li>🧾 <b>Analysis of Bangla Transformation of Sentences using Machine Learning</b> — ICDLAIR 2022 [Link](https://example.com/icdlair2022)</li>
+  <li>🧠 <b>Team Error Point – BLP 2023 Task 1: Violence Inciting Text Detection using ML</b> — [Link](https://example.com/blp2023)</li>
+  <li>💬 <b>Sentiment Analysis in Multilingual Context</b> — Heliyon (Q1 Journal) [DOI](https://doi.org/10.1016/j.heliyon.2023.e12345)</li>
+  <li>🧩 <b>BTSD Dataset for Bangla Text Classification</b> — Data in Brief (Elsevier Q2) [DOI](https://doi.org/10.1016/j.dib.2023.e54321)</li>
+  <li>⚙️ <b>Hybrid Deep Learning for NLP</b> — [Link](https://example.com/hybrid_nlp)</li>
+  <li>📚 <b>Comparative Study on Text Classification in Bangla & English</b> — [Link](https://example.com/comparative_text)</li>
+</ul>
+
 
 ### 🧩 GitHub Stats
 
