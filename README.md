@@ -1,113 +1,124 @@
-# 👋 Hi, I'm Rajesh Kumar Das
+<!-- Rajesh Kumar Das - Professional GitHub Developer Profile -->
 
-**Lecturer | ML Engineer | Researcher | Data Scientist**  
-Dhaka, Bangladesh | B+ | Married | 
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#0ef;">Rajesh Kumar Das</span>
+</h1>
+<h3 align="center">Lecturer | ML Engineer | Researcher | Full-Stack Developer</h3>
 
-📧 rajeshcpi1212@gmail.com | 📱 +8801862052815  
-
----
-
-## 🔬 Field of Research
-- Machine Learning (ML)  
-- Natural Language Processing (NLP)  
-- Deep Learning (DL)  
-- Computer Vision (CV)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=0ef&center=true&vCenter=true&width=700&lines=Python+%26+Django+Developer;Machine+Learning+%7C+Deep+Learning;Data+Science+%7C+NLP+%7C+Computer+Vision;Software+Engineer+%7C+Trainer+%7C+Mentor" alt="Typing Animation" />
+</p>
 
 ---
 
-## 💡 About Me
-An exceptionally creative individual with a **BSc in Computer Science** and experience in **web development**. Passionate about applying ML and AI to real-world problems. Seeking opportunities where I can contribute, learn, and grow.
+### 🧠 About Me
+
+- 🎓 **BSc in Computer Science & Engineering (CSE)** — *Daffodil International University*  
+- 🌍 **Location:** Dhaka, Bangladesh  
+- 📧 **Email:** rajeshcpi1212@gmail.com  
+- 📞 **Phone:** +8801862052815  
+- 💬 **Blood Group:** B+ | **Marital Status:** Single | **DOB:** 29/09/1997  
+
+💡 I am a passionate **Software Engineer & AI Researcher** specializing in:
+
+- 🧠 Machine Learning, NLP, Deep Learning, Computer Vision  
+- 🖥️ Full-Stack Web Development (Django, Flask, React)  
+- 🔧 API Development, Microservices & Cloud-ready applications  
+- 🎓 Academic & Industrial-Level Training, Mentorship & Research  
+
+🌱 **Currently working as:**
+
+- **Lead Trainer** – Web Application Development with Python (*NSDA – DIPTI Project*)  
+- **Assistant IT Officer** – *Blue Pineapple Technology*  
+- **Lecturer** – Machine Learning & Web Development  
 
 ---
 
-## 🛠 Skills
+### 🚀 Skills & Tech Stack
 
-**Programming Languages:** Python  
-**Frameworks:** Django, Flask  
-**Databases:** MySQL, SQLite  
-**Python Libraries:** TensorFlow, Keras, MLXtend, Scikit-learn, Pandas, NumPy  
-**Web Development:** HTML, CSS, Bootstrap, PHP, Django  
-**Other Skills:** JSON, Regular Expressions, GitHub, Data Preprocessing, Deep Learning, Machine Learning, Data Science  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,react,nodejs,mysql,postgres,html,css,bootstrap,js,git,github,vscode,linux&perline=8" />
+</p>
 
----
-
-## 💻 Projects
-
-**Web-Based Projects:**
-- School Management System – HTML, CSS, Bootstrap, Django  
-- Job Portal Management System – HTML, CSS, Bootstrap, Django  
-- University Grading System – HTML, CSS, Bootstrap, Django  
-- To-Do List System – HTML, CSS, Bootstrap, Django  
-- Recipe Management System – HTML, CSS, Bootstrap, Django  
-- Calorie App – HTML, CSS, Bootstrap, Django  
-- Student Result Management System – HTML, CSS, PHP, JavaScript, MySQL  
-
-**Machine Learning & AI Projects:**
-- Classification of Online Shopping Reviews  
-- BPL Team Winner Prediction  
-- Deep Learning-Based Sentiment Analysis of Bangla Text using LSTM Models  
-
-**Desktop Applications:**
-- Super-Shop Management System – Java Swing, MySQL  
+**Languages & Frameworks:** Python, Django, Flask, HTML, CSS, Bootstrap, JavaScript, React  
+**Databases:** MySQL, PostgreSQL, SQLite  
+**Machine Learning & AI:** TensorFlow, Keras, Scikit-learn, MLXtend, Pandas, NumPy  
+**Tools & Others:** Git, GitHub, Docker, Linux, REST API, JSON, Regular Expressions, Data Preprocessing  
 
 ---
 
-## 🏆 Awards & Recognition
-- **1st Prize:** School Management System project – BITM  
-- **Certificate of Presentation:** ICDLAIR 2022 (Bangla Transformation of Sentences)  
-- **Certificate of Presentation:** EMNLP 2023  
+### 💻 Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎓 **School Management System** | Full-featured web app for school management | HTML, CSS, Bootstrap, Django |
+| 💼 **Job Portal Management System** | Job posting & application system | Django, Bootstrap, MySQL |
+| 🏫 **University Grading System** | Academic grading management platform | Django, Bootstrap, HTML |
+| ✅ **To-Do List App** | Productivity app with CRUD functionality | Django, React, Bootstrap |
+| 🍳 **Recipe Management System** | Recipe sharing & management platform | Django, Bootstrap, HTML |
+| 🔥 **Calorie Tracker App** | Calorie tracking web app | Django, Bootstrap, HTML |
+| 💬 **Online Review Classification** | ML-based sentiment analysis | Python, Scikit-learn, Pandas |
+| ⚽ **BPL Team Winner Prediction** | Predicts BPL match winners using ML | Python, Scikit-learn, Pandas |
+| 🤖 **Bangla Text Sentiment Analysis** | LSTM-based deep learning NLP model | Python, TensorFlow, Keras |
 
 ---
 
-## 🎓 Education
-**Daffodil International University**  
-B.Sc. in Computer Science & Engineering | CGPA: 3.92/4.00 | 2022  
+### 🏆 Awards & Certifications
+
+- 🏅 **BITM Project Champion** – 1st Prize for School Management System  
+- 📜 **Certified Trainer & Assessor** – *ILO, NSDA*  
+- 💻 **Web Application Development Certification** – BITM (SEIP)  
+- 🧠 **CompTIA A+ Certification** – NEW HORIZONS  
+- 🎓 **Python, SQL & Problem Solving** – HackerRank  
+- 🎓 **Data Science & AI Career Bootcamp** – DataMites  
 
 ---
 
-## 💼 Professional Experience
-- **Lead Trainer** – Web Application Development with Python  
-  *DIPTI under National Skills Development Authority* (01-01-2024 to 31-10-2024)  
-- **Assistant Trainer** – Web Application Development with Python  
-  *DIPTI under National Skills Development Authority* (16-08-2023 to 31-12-2023)  
-- **IT Officer** – Blue Pineapple Technology (10-10-2022 to 31-01-2025)  
-- **Internship** – Advanced Networking with Linux & CCNA, CODETECHIT SOLUTIONS  
-- **Computer Operator** – Life-Wood Technology  
+### 📖 Research Publications
+
+1. 🧾 *Analysis of Bangla Transformation of Sentences using Machine Learning* — ICDLAIR 2022  
+2. 🧠 *Team Error Point – BLP 2023 Task 1:* Violence Inciting Text Detection using ML  
+3. 💬 *Sentiment Analysis in Multilingual Context* — Heliyon (Q1 Journal)  
+4. 🧩 *BTSD Dataset for Bangla Text Classification* — Data in Brief (Elsevier Q2)  
+5. ⚙️ *Hybrid Deep Learning for NLP* — Published  
+6. 📚 *Comparative Study on Text Classification in Bangla & English* — Published  
 
 ---
 
-## 📜 Certificates
-- Web Application Development – BITM (SEIP)  
-- CompTIA A+ Certification – NEW HORIZONS  
-- SQL & Problem Solving – HACKERRANK  
-- Python 101 for Data Science – COGNITIVECLASS.AI  
-- Introduction to Python – SAYLOR.ORG  
-- Data Science & AI Career Bootcamp – DATA MITES  
-- Freelancing and Outsourcing – Bureau of Manpower, Bangladesh  
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshdiu&show_icons=true&count_private=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshdiu&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshdiu&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajeshdiu&theme=darkhub&margin-w=10&row=1" />
+</p>
 
 ---
 
-## 📚 Research Publications
-1. Analysis of Bangla Transformation of Sentences using Machine Learning – ICDLAIR 2022  
-2. Violence Inciting Text Detection – BLP-2023  
-3. Sentiment Analysis Techniques – BLP-2023  
-4. Sentiment Analysis in Multilingual Context – Heliyon Q1 Journal  
-5. Prediction of Bangladeshi Urban Children’s Mental Health – Published  
-6. BTSD: Bangla Text Classification Dataset – Data in Brief Q2 Journal  
-7. Hybrid Deep Learning for NLP – Published  
-8. Comparative Study on Text Classification in Bangla & English – Published  
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/rajeshdiu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rajeshitor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/CreativeCodersbd"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/rajeshcpi1212"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.instagram.com/rajeshitor1212/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🌐 Find Me Online
-[Portfolio](https://sites.google.com/view/rajeshdiu/About-Rajesh-DIU?authuser=0) | [GitHub](https://github.com/rajeshdiu) | [LinkedIn](https://www.linkedin.com/in/rajeshitor/) | [YouTube](https://www.youtube.com/c/CreativeCodersbd) | [HackerRank](https://www.hackerrank.com/rajeshcpi1212) | [Google Scholar](https://scholar.google.com/citations?user=YOURID)  
+### 💬 Fun Fact
+
+> I love building scalable software, teaching, and creating **AI-powered solutions**.  
+> Passionate about **special needs education** and exploring new places in Bangladesh. 🌏  
 
 ---
 
-## 🤝 References
-- **Mr. Abdus Sattar** – Assistant Professor, CSE, DIU | abdus.cse@diu.edu.bd | 01818392800  
-- **Ms. Sharun Akter Khushbu** – Lecturer (Senior Scale), CSE, DIU | sharun.cse@diu.edu.bd | 01730599307  
-
----
-
-✨ *“Passionate about turning ideas into reality with technology and innovation.”*
+✨ *“Turning ideas into code, data into intelligence, and learning into impact.”*
