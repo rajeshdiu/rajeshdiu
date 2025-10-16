@@ -16,8 +16,7 @@
 🎓 **BSc in Computer Science & Engineering (CSE)** — *Daffodil International University*  
 🌍 **Location:** Dhaka, Bangladesh  
 📧 **Email:** rajeshcpi1212@gmail.com  
-📞 **Phone:** +8801862052815  
-💬 **Blood Group:** B+ | **Marital Status:** Single | **DOB:** 29/09/1997  
+
 
 💡 I’m a passionate developer and researcher focused on:
 - 🧠 Machine Learning, NLP, Deep Learning, Computer Vision  
