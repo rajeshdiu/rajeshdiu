@@ -30,28 +30,85 @@
 - **Lecturer** – *Machine Learning & Web Development*
 
 ---
+<!-- Skills & Projects Section -->
+<section class="max-w-6xl mx-auto px-6 py-12">
+  <!-- Skills -->
+  <div class="mb-12" data-aos="fade-up">
+    <h2 class="text-3xl font-bold text-center mb-6">🚀 Skills & Technologies</h2>
+    <div class="flex flex-wrap justify-center gap-4">
+      <!-- Skill Icons -->
+      <img src="https://skillicons.dev/icons?i=python,django,react,postgresql,mysql,html,css,bootstrap,js,docker,git,github,vscode&perline=6" alt="Skills Icons" class="rounded-lg shadow-lg p-4 bg-gray-900">
+    </div>
+  </div>
 
-### 🚀 Skills & Technologies
+  <!-- Projects -->
+  <div data-aos="fade-up" data-aos-delay="150">
+    <h2 class="text-3xl font-bold text-center mb-6">📚 Projects</h2>
+    <p class="text-center text-gray-300 mb-6">🚧 Built with HTML, CSS, Bootstrap, Django, and Machine Learning</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,postgresql,mysql,html,css,bootstrap,js,docker,git,github,vscode&perline=6" />
-</p>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Project Card -->
+      <div class="project-card p-6 bg-gray-900 rounded-xl shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
+        <h3 class="text-xl font-bold mb-2">🎓 School Management System</h3>
+        <p class="text-gray-400 mb-2">Full-featured web system for managing school data</p>
+        <p class="text-sm text-gray-500 mb-2">Year: 2021</p>
+        <p class="text-sm font-medium">Technology: <span class="text-cyan-400">Python, Django, DRF, MySQL, Bootstrap</span></p>
+      </div>
 
+      <div class="project-card p-6 bg-gray-900 rounded-xl shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
+        <h3 class="text-xl font-bold mb-2">💼 Job Portal Management System</h3>
+        <p class="text-gray-400 mb-2">Job posting & application platform for recruiters and seekers</p>
+        <p class="text-sm text-gray-500 mb-2">Year: 2022</p>
+        <p class="text-sm font-medium">Technology: <span class="text-cyan-400">Python, Django, DRF, React</span></p>
+      </div>
 
-### 📚 Projects
+      <div class="project-card p-6 bg-gray-900 rounded-xl shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
+        <h3 class="text-xl font-bold mb-2">🏫 Student Management System</h3>
+        <p class="text-gray-400 mb-2">Web app for managing academic grades</p>
+        <p class="text-sm text-gray-500 mb-2">Year: 2022</p>
+        <p class="text-sm font-medium">Technology: <span class="text-cyan-400">Python, Django, DRF, PostgreSQL</span></p>
+      </div>
 
-🚧 Built with HTML, CSS, Bootstrap, Django, and Machine Learning:
+      <div class="project-card p-6 bg-gray-900 rounded-xl shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
+        <h3 class="text-xl font-bold mb-2">🍳 Employee Management System</h3>
+        <p class="text-gray-400 mb-2">Employee management platform with CRUD operations</p>
+        <p class="text-sm text-gray-500 mb-2">Year: 2022</p>
+        <p class="text-sm font-medium">Technology: <span class="text-cyan-400">Python, Django, DRF, Bootstrap</span></p>
+      </div>
 
-| Project | Description | Year | Technology |
-|---------|-------------|------|------------|
-| 🎓 **School Management System** | Full-featured web system for managing school data | 2021 | Python, Django, DRF, MySQL, Bootstrap |
-| 💼 **Job Portal Management System** | Job posting & application platform for recruiters and seekers | 2022 | Python, Django, DRF, React |
-| 🏫 **Student Management System** | Web app for managing academic grades | 2022 | Python, Django, DRF, PostgreSQL |
-| 🍳 **Employee Management System** | Employee management platform with CRUD operations | 2022 | Python, Django, DRF, Bootstrap |
-| 💬 **Online Review Classification** | ML model for sentiment classification | 2023 | Python, Machine Learning, NLP, Scikit-learn |
-| ⚽ **BPL Team Winner Prediction** | Predicts winners using ML algorithms | 2023 | Python, Machine Learning, Pandas, Scikit-learn |
-| 🤖 **Bangla Text Sentiment Analysis (LSTM)** | Deep Learning-based sentiment analyzer | 2023 | Python, TensorFlow, Keras, NLP |
+      <div class="project-card p-6 bg-gray-900 rounded-xl shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
+        <h3 class="text-xl font-bold mb-2">💬 Online Review Classification</h3>
+        <p class="text-gray-400 mb-2">ML model for sentiment classification</p>
+        <p class="text-sm text-gray-500 mb-2">Year: 2023</p>
+        <p class="text-sm font-medium">Technology: <span class="text-cyan-400">Python, Machine Learning, NLP, Scikit-learn</span></p>
+      </div>
 
+      <div class="project-card p-6 bg-gray-900 rounded-xl shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
+        <h3 class="text-xl font-bold mb-2">⚽ BPL Team Winner Prediction</h3>
+        <p class="text-gray-400 mb-2">Predicts winners using ML algorithms</p>
+        <p class="text-sm text-gray-500 mb-2">Year: 2023</p>
+        <p class="text-sm font-medium">Technology: <span class="text-cyan-400">Python, Machine Learning, Pandas, Scikit-learn</span></p>
+      </div>
+
+      <div class="project-card p-6 bg-gray-900 rounded-xl shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2">
+        <h3 class="text-xl font-bold mb-2">🤖 Bangla Text Sentiment Analysis (LSTM)</h3>
+        <p class="text-gray-400 mb-2">Deep Learning-based sentiment analyzer</p>
+        <p class="text-sm text-gray-500 mb-2">Year: 2023</p>
+        <p class="text-sm font-medium">Technology: <span class="text-cyan-400">Python, TensorFlow, Keras, NLP</span></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Include Tailwind CSS CDN for styling and AOS for animations -->
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    AOS.init({ duration: 700, once: true });
+  });
+</script>
 
 ---
 
