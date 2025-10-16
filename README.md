@@ -39,8 +39,6 @@ Feel free to reach out for discussions on **Data Science, Machine Learning, and 
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='25'>](https://github.com/rajeshdiu)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='25'>](https://www.linkedin.com/in/rajeshitor/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='25'>](https://www.facebook.com/rajeshdasitor/)  
