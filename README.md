@@ -1,7 +1,12 @@
 # Hi there 👋, I'm Rajesh
 
 I'm a **Django & Python Web Developer** with a **BSc (Eng) in Computer Science and Engineering** from Daffodil International University.  
-Passionate about **Machine Learning** and **Data Science**, specializing in **Data Visualization, Data Wrangling, Data Exploration, and Data Extraction**.  
+I specialize in **Machine Learning, Data Science, Data Visualization, Data Wrangling, Data Exploration, and Data Extraction**.  
+
+🌱 I love applying ML to **solve real-world problems** and make a positive impact.  
+💻 Proficient in **Python, Django, Java, MySQL, and C**.  
+🎯 Always learning **Deep Learning** and exploring new technologies.  
+❤️ I also enjoy **volunteering with special needs children** and traveling.  
 
 ---
 
@@ -19,8 +24,9 @@ Passionate about **Machine Learning** and **Data Science**, specializing in **Da
 ![Data Science](https://img.shields.io/badge/Data%20Science-FF6F61?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B0082?style=for-the-badge)
 
-**Databases**  
+**Databases & Tools**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -32,7 +38,7 @@ Passionate about **Machine Learning** and **Data Science**, specializing in **Da
 ---
 
 ## 👯 Let's Collaborate
-I’m open to **collaborations on GitHub** and projects involving **Machine Learning, Data Science, or Web Development**.  
+I’m open to collaborations on **Machine Learning, Data Science, or Web Development projects**.  
 
 ---
 
@@ -61,6 +67,14 @@ I’m open to **collaborations on GitHub** and projects involving **Machine Lear
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshdiu&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshdiu&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ## 🌱 Fun Fact
-I enjoy **volunteering with special needs children** and traveling with friends & family.  
-Always striving to be the **happiest and best version of myself**.
+I enjoy **helping special needs children**, exploring new places, and **always striving to be the best version of myself**.
