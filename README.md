@@ -11,62 +11,74 @@
 
 ---
 
-### 🧠 **About Me**
+### 🧠 About Me
 
 🎓 **BSc in Computer Science & Engineering (CSE)** — *Daffodil International University*  
 🌍 **Location:** Dhaka, Bangladesh  
 📧 **Email:** rajeshcpi1212@gmail.com  
 
-
 💡 I’m a passionate developer and researcher focused on:
+
 - 🧠 Machine Learning, NLP, Deep Learning, Computer Vision  
 - 🖥️ Django & REST API Development  
-- 🎓 Academic & industrial-level project mentoring  
+- 🎓 Academic & Industrial-level Project Mentoring  
 
 🌱 **Currently working as:**
+
 - **Lead Trainer** – *Web Application Development with Python (NSDA Project)*  
 - **Assistant IT Officer** – *Blue Pineapple Technology*  
 - **Lecturer** – *Machine Learning & Web Development*
 
 ---
 
-### 🚀 **Skills & Technologies (Animated)**
+### 🚀 Skills & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,postgresql,mysql,html,css,bootstrap,js,docker,git,github,vscode&perline=6" />
 </p>
 
+**Proficiency:**
+
+| Skill | Level |
+|-------|-------|
+| Python | 95% |
+| Django / DRF | 90% |
+| React | 82% |
+| PostgreSQL / MySQL | 86% |
+| Docker | 75% |
+
 ---
 
-### 📚 **Projects**
+### 📚 Projects
+
 🚧 Built with HTML, CSS, Bootstrap, Django, and Machine Learning:
 
-| Project | Description |
-|----------|-------------|
-| 🎓 **School Management System** | A full-featured web system for managing school data |
-| 💼 **Job Portal Management System** | Job posting & application platform for recruiters and seekers |
-| 🏫 **University Grading System** | Web app for managing academic grades |
-| ✅ **To-Do List App** | Simple productivity tool using Django & React |
-| 🍳 **Recipe Management System** | Recipe sharing platform with search & CRUD |
-| 🔥 **Calorie App** | Tracks calories using Django backend |
-| 💬 **Online Review Classification** | ML model for sentiment classification |
-| ⚽ **BPL Team Winner Prediction** | Predicts winners using ML algorithms |
-| 🤖 **Bangla Text Sentiment Analysis (LSTM)** | Deep Learning-based sentiment analyzer |
+| Project | Description | Year |
+|---------|-------------|------|
+| 🎓 **School Management System** | Full-featured web system for managing school data | 2021 |
+| 💼 **Job Portal Management System** | Job posting & application platform for recruiters and seekers | 2022 |
+| 🏫 **University Grading System** | Web app for managing academic grades | 2022 |
+| ✅ **To-Do List App** | Simple productivity tool using Django & React | 2022 |
+| 🍳 **Recipe Management System** | Recipe sharing platform with search & CRUD | 2022 |
+| 🔥 **Calorie App** | Tracks calories using Django backend | 2022 |
+| 💬 **Online Review Classification** | ML model for sentiment classification | 2023 |
+| ⚽ **BPL Team Winner Prediction** | Predicts winners using ML algorithms | 2023 |
+| 🤖 **Bangla Text Sentiment Analysis (LSTM)** | Deep Learning-based sentiment analyzer | 2023 |
 
 ---
 
-### 🏆 **Awards & Certifications**
+### 🏆 Awards & Certifications
 
-🏅 **BITM Project Champion** – *1st Prize for School Management System*  
-📜 **Certified Trainer & Assessor (ILO – NSDA)**  
-💻 **Web Application Development (BITM SEIP)**  
-🎖 **Python, SQL, Problem Solving** – *HackerRank*  
-🧠 **CompTIA A+ Certification – NEW HORIZONS*  
-🎓 **Data Science & AI Career Bootcamp – DataMites*
+- 🏅 **BITM Project Champion** – *1st Prize for School Management System*  
+- 📜 **Certified Trainer & Assessor (ILO – NSDA)**  
+- 💻 **Web Application Development (BITM SEIP)**  
+- 🎖 **Python, SQL, Problem Solving** – *HackerRank*  
+- 🧠 **CompTIA A+ Certification – NEW HORIZONS**  
+- 🎓 **Data Science & AI Career Bootcamp – DataMites**
 
 ---
 
-### 📖 **Research Publications**
+### 📖 Research Publications
 
 1. 🧾 *Analysis of Bangla Transformation of Sentences using Machine Learning* — ICDLAIR 2022  
 2. 🧠 *Team Error Point – BLP 2023 Task 1:* Violence Inciting Text Detection using ML  
@@ -77,7 +89,7 @@
 
 ---
 
-### 🧩 **GitHub Stats (Animated)**
+### 🧩 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajeshdiu&show_icons=true&theme=react&hide_border=true" />
@@ -86,21 +98,23 @@
 
 ---
 
-### 📊 **Contribution Graph**
+### 📊 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshdiu&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 **Trophies**
+### 🏆 Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rajeshdiu&theme=algolia&margin-w=10&row=1" />
 </p>
 
 ---
 
-### 🌍 **Connect With Me**
+### 🌍 Connect With Me
 
 <p align="center">
   <a href="https://github.com/rajeshdiu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -113,22 +127,15 @@
 
 ---
 
-### 🧭 **Activity Overview**
-| Type | Percentage |
-|------|-------------|
-| **Commits** | 94% |
-| **Pull Requests** | 0% |
-| **Issues** | 6% |
+### 💬 Fun Fact
+
+> I love teaching, building impactful projects, and exploring ways to make **AI more human-centered.**  
+> I also enjoy working with **special needs children** and traveling around beautiful Bangladesh. 🌍
 
 ---
 
-### 🧩 **Visitor Counter**
+### 📌 Visitor Count
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajeshdiu&color=blueviolet&style=for-the-badge" />
 </p>
-
----
-
-### 💬 **Fun Fact**
-> I love teaching, building impactful projects, and exploring ways to make **AI more human-centered.**  
-> I also enjoy working with **special needs children** and traveling around beautiful Bangladesh. 🌍
