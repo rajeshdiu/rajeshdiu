@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Rajesh
 
-I'm a **Django & Python Web Developer** with a **BSc (Eng) in Computer Science and Engineering** from Daffodil International University.  
+I'm a **Django & Python Web Developer** with a **BSc (Eng) in CSE** from Daffodil International University.  
 I specialize in **Machine Learning, Data Science, Data Visualization, Data Wrangling, Data Exploration, and Data Extraction**.  
 
-🌱 I love applying ML to **solve real-world problems** and make a positive impact.  
+🌱 I love applying ML to **solve real-world problems**.  
 💻 Proficient in **Python, Django, Java, MySQL, and C**.  
-🎯 Always learning **Deep Learning** and exploring new technologies.  
-❤️ I also enjoy **volunteering with special needs children** and traveling.  
+🎯 Always learning **Deep Learning & AI technologies**.  
+❤️ Volunteering with special needs children and traveling are my passions.
 
 ---
 
@@ -71,13 +71,13 @@ I’m open to collaborations on **Machine Learning, Data Science, or Web Develop
 
 <p align="left">
   <a href="https://github.com/rajeshdiu/Basic-CRUD-Operation-On-Hospital-Management-System-NSDA_B6">
-    <img alt="Hospital Management System" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshdiu&repo=Basic-CRUD-Operation-On-Hospital-Management-System-NSDA_B6&theme=radical" />
+    <img alt="Hospital Management" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshdiu&repo=Basic-CRUD-Operation-On-Hospital-Management-System-NSDA_B6&theme=radical" />
   </a>
   <a href="https://github.com/rajeshdiu/DRF-API-Authentication-with-Job-Portal">
     <img alt="DRF API Auth" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshdiu&repo=DRF-API-Authentication-with-Job-Portal&theme=radical" />
   </a>
   <a href="https://github.com/rajeshdiu/To-Do-List-Djagno-And-React">
-    <img alt="To-Do List Django & React" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshdiu&repo=To-Do-List-Djagno-And-React&theme=radical" />
+    <img alt="To-Do List" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshdiu&repo=To-Do-List-Djagno-And-React&theme=radical" />
   </a>
 </p>
 
@@ -92,14 +92,30 @@ I’m open to collaborations on **Machine Learning, Data Science, or Web Develop
 
 ---
 
-## 📈 GitHub Contributions
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshdiu&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 > **56 contributions in the last year**  
-> Activity includes commits, pull requests, issues, and code review in 24+ repositories.  
+> Includes commits, pull requests, issues, and code review in 24+ repositories.
+
+---
+
+## 🏆 Achievements & Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajeshdiu&theme=radical&no-frame=true&column=7" alt="Trophies" />
+</p>
+
+---
+
+## 👨‍💻 Languages & Tools Pie Chart
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshdiu&langs_count=8&layout=pie&theme=radical" alt="Languages Pie Chart" />
+</p>
 
 ---
 
