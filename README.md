@@ -96,58 +96,59 @@
   </a>
 </p>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px; margin-top: 16px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; margin-top: 16px;">
 
-<div style="background: rgba(34,211,238,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(34,211,238,0.2); transition: transform 0.2s;">
+<div style="background: linear-gradient(135deg, #22D3EE33, #06B6D433); padding: 16px; border-radius: 12px; border-left: 4px solid #22D3EE; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
   📝 <b>Sentiment Analysis in Multilingual Context: Comparative Analysis of Machine Learning and Hybrid Deep Learning Models</b><br>
-  RK Das, M Islam, MM Hasan, S Razia, M Hassan, SA Khushbu<br>
-  Heliyon 9 (9), 62, 2023<br>
-  <a href="https://www.sciencedirect.com/science/article/pii/S2405844023074893" target="_blank">Read Paper</a>
+  <i>RK Das, M Islam, MM Hasan, S Razia, M Hassan, SA Khushbu</i><br>
+  <small>Heliyon 9 (9), 62, 2023</small><br>
+  <a href="https://www.sciencedirect.com/science/article/pii/S2405844023074893" target="_blank">🔗 Read Paper</a>
 </div>
 
-<div style="background: rgba(124,58,237,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(124,58,237,0.2); transition: transform 0.2s;">
+<div style="background: linear-gradient(135deg, #7C3AED33, #C084FC33); padding: 16px; border-radius: 12px; border-left: 4px solid #7C3AED; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
   📊 <b>BTSD: A Curated Transformation of Sentence Dataset for Text Classification in Bangla Language</b><br>
-  RK Das, M Islam, SA Khushbu<br>
-  Data in Brief 50, 109445, 2023<br>
-  <a href="https://www.sciencedirect.com/science/article/pii/S2352340923005450" target="_blank">Read Paper</a>
+  <i>RK Das, M Islam, SA Khushbu</i><br>
+  <small>Data in Brief 50, 109445, 2023</small><br>
+  <a href="https://www.sciencedirect.com/science/article/pii/S2352340923005450" target="_blank">🔗 Read Paper</a>
 </div>
 
-<div style="background: rgba(255,165,0,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(255,165,0,0.2); transition: transform 0.2s;">
+<div style="background: linear-gradient(135deg, #FFD70033, #FFA50033); padding: 16px; border-radius: 12px; border-left: 4px solid #FFD700; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
   💡 <b>Analysis of Bangla Transformation of Sentences using Machine Learning</b><br>
-  RK Das, SS Sammi, K Kobra, MR Ajmain, SA Khushbu, SRH Noori<br>
-  International Conference on Deep Learning, Artificial Intelligence and …, 2022<br>
-  <a href="https://aclanthology.org/2023.banglalp-1.30/" target="_blank">Read Paper</a>
+  <i>RK Das, SS Sammi, K Kobra, MR Ajmain, SA Khushbu, SRH Noori</i><br>
+  <small>International Conference on Deep Learning, AI, 2022</small><br>
+  <a href="https://aclanthology.org/2023.banglalp-1.30/" target="_blank">🔗 Read Paper</a>
 </div>
 
-<div style="background: rgba(128,0,128,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(128,0,128,0.2); transition: transform 0.2s;">
+<div style="background: linear-gradient(135deg, #FF000033, #FF450033); padding: 16px; border-radius: 12px; border-left: 4px solid #FF0000; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
   🧠 <b>Prediction of Bangladeshi Urban Children's Mental Health for the Effect of Mobile Gaming Using Machine Learning</b><br>
-  T Hasan, MZ Bonny, RK Das, S Sultana, MT Islam, A Sattar<br>
-  International Journal on Advanced Science, Engineering & Information …, 2024<br>
-  <a href="https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/18534" target="_blank">Read Paper</a>
+  <i>T Hasan, MZ Bonny, RK Das, S Sultana, MT Islam, A Sattar</i><br>
+  <small>International Journal on Advanced Science, Engineering & Info, 2024</small><br>
+  <a href="https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/18534" target="_blank">🔗 Read Paper</a>
 </div>
 
-<div style="background: rgba(255,0,0,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(255,0,0,0.2); transition: transform 0.2s;">
+<div style="background: linear-gradient(135deg, #8A2BE233, #6A5ACD33); padding: 16px; border-radius: 12px; border-left: 4px solid #8A2BE2; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
   ⚙️ <b>Team Error Point at BLP-2023 Task 1: Violence Inciting Text Detection using Deep Learning and Traditional Machine Learning Algorithm</b><br>
-  R Das, J Maowa, M Ajmain, K Yeiad, M Islam, S Khushbu<br>
-  Proceedings of the First Workshop on Bangla Language Processing (BLP-2023), 2023<br>
-  <a href="https://aclanthology.org/2023.banglalp-1.44/" target="_blank">Read Paper</a>
+  <i>R Das, J Maowa, M Ajmain, K Yeiad, M Islam, S Khushbu</i><br>
+  <small>BLP-2023 Workshop, 2023</small><br>
+  <a href="https://aclanthology.org/2023.banglalp-1.44/" target="_blank">🔗 Read Paper</a>
 </div>
 
-<div style="background: rgba(138,43,226,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(138,43,226,0.2); transition: transform 0.2s;">
-  📚 <b>Team Error Point at BLP-2023 Task 2: A Comparative Exploration of Hybrid Deep Learning and Machine Learning Approach for Advanced Sentiment Analysis Techniques</b><br>
-  R Das, K Yeiad, M Ajmain, J Maowa, M Islam, S Khushbu<br>
-  Proceedings of the First Workshop on Bangla Language Processing (BLP-2023), 2023<br>
-  <a href="https://aclanthology.org/2023.banglalp-1.44/" target="_blank">Read Paper</a>
+<div style="background: linear-gradient(135deg, #00CED133, #20B2AA33); padding: 16px; border-radius: 12px; border-left: 4px solid #00CED1; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
+  📚 <b>Team Error Point at BLP-2023 Task 2: Comparative Exploration of Hybrid Deep Learning & ML for Advanced Sentiment Analysis</b><br>
+  <i>R Das, K Yeiad, M Ajmain, J Maowa, M Islam, S Khushbu</i><br>
+  <small>BLP-2023 Workshop, 2023</small><br>
+  <a href="https://aclanthology.org/2023.banglalp-1.44/" target="_blank">🔗 Read Paper</a>
 </div>
 
-<div style="background: rgba(255,215,0,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(255,215,0,0.2); transition: transform 0.2s;">
-  🤖 <b>Hybrid Deep Learning: A Comparative Study on AI Algorithms in Natural Language Processing for Text Classification</b><br>
-  MM Hasan, RK Das, M Hassan, S Razia, JF Ani, SA Khushbu, M Islam<br>
-  Bulletin of Electrical Engineering and Informatics 14 (1), 551-559, 2023<br>
-  <a href="https://beei.org/index.php/EEI/article/view/7617" target="_blank">Read Paper</a>
+<div style="background: linear-gradient(135deg, #FF149333, #FF634733); padding: 16px; border-radius: 12px; border-left: 4px solid #FF1493; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
+  🤖 <b>Hybrid Deep Learning: Comparative Study on AI Algorithms in NLP for Text Classification</b><br>
+  <i>MM Hasan, RK Das, M Hassan, S Razia, JF Ani, SA Khushbu, M Islam</i><br>
+  <small>BEEI 14(1), 551-559, 2023</small><br>
+  <a href="https://beei.org/index.php/EEI/article/view/7617" target="_blank">🔗 Read Paper</a>
 </div>
 
 </div>
+
 
 ---
 ### 🧩 GitHub Stats
