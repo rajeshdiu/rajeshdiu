@@ -3,11 +3,12 @@
 <h1 align="center">
   👋 Hi there, I'm <span style="color:#000000;">Rajesh Kumar Das</span>
 </h1>
-<h3 align="center">Backend Developer (Django) | Data Scientist | Researcher | Trainer </h3>
+<h3 align="center">Full Stack Developer (Django & React) | Data Scientist | Researcher | Trainer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=0ef&center=true&vCenter=true&width=600&lines=Django+%26+Python+Web+Developer;Machine+Learning+%7C+Deep+Learning;Data+Science+%7C+NLP+%7C+Computer+Vision;Trainer+%7C+Researcher+%7C+Mentor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=0ef&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%28Django+%26+React%29;Machine+Learning+%7C+Deep+Learning;Data+Science+%7C+NLP+%7C+Computer+Vision;Trainer+%7C+Researcher+%7C+Mentor" alt="Typing Animation" />
 </p>
+
 
 ---
 
