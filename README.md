@@ -49,7 +49,6 @@
 </p>
 
 ---
-
 ### 📚 Projects
 
 🚧 **Built with Python, Django, REST Framework, React & Machine Learning**
@@ -63,9 +62,11 @@
 | 💬 **Online Review Classification** | ML model for sentiment classification | 2023 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![ML](https://img.shields.io/badge/Machine%20Learning-F7DF1E?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-22D3EE?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square) |
 | ⚽ **BPL Team Winner Prediction** | Predicts winners using ML algorithms | 2023 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![ML](https://img.shields.io/badge/Machine%20Learning-F7DF1E?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square) |
 | 🤖 **Bangla Text Sentiment Analysis (LSTM)** | Deep Learning-based sentiment analyzer | 2023 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-22D3EE?style=flat-square) |
+| 🏥 **Hospital Management System** | Full-stack app for patient records, appointments & billing | 2023 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) ![DRF](https://img.shields.io/badge/DRF-ff9900?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql) |
+| 🛒 **E-commerce Web App** | Online shopping platform with cart, payment & user dashboard | 2023 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) ![DRF](https://img.shields.io/badge/DRF-ff9900?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square) |
+| 🌐 **Social Media Dashboard** | Web dashboard to track engagement metrics & analytics | 2023 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square) ![DRF](https://img.shields.io/badge/DRF-ff9900?style=flat-square) |
+| 🤖 **AI Chatbot** | NLP-based chatbot integrated with web UI using Django & React | 2024 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow) ![NLP](https://img.shields.io/badge/NLP-22D3EE?style=flat-square) |
 
-
----
 ### 🏆 Awards & Certifications
 
 | Award / Certification | Organization / Platform |
