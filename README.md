@@ -82,68 +82,72 @@
 ### 📖 Research Publications
 
 <p align="center">
-
   <a href="https://www.sciencedirect.com/science/article/pii/S2405844023074893" target="_blank">
-    <img alt="Elsevier 2023" src="https://img.shields.io/badge/Elsevier-2023-green?style=for-the-badge&logo=elsevier" />
+    <img alt="Heliyon 2023" src="https://img.shields.io/badge/Heliyon-2023-green?style=for-the-badge&logo=elsevier" />
   </a>
   <a href="https://aclanthology.org/2023.banglalp-1.44/" target="_blank">
     <img alt="BanglaLP 2023" src="https://img.shields.io/badge/BanglaLP-2023-orange?style=for-the-badge&logo=acm" />
   </a>
-  
   <a href="https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/18534" target="_blank">
     <img alt="IJASEIT 2023" src="https://img.shields.io/badge/IJASEIT-2023-red?style=for-the-badge&logo=researchgate" />
   </a>
- 
   <a href="https://beei.org/index.php/EEI/article/view/7617" target="_blank">
     <img alt="BEEI 2023" src="https://img.shields.io/badge/BEEI-2023-yellow?style=for-the-badge&logo=researchgate" />
   </a>
- 
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px; margin-top: 16px;">
 
 <div style="background: rgba(34,211,238,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(34,211,238,0.2); transition: transform 0.2s;">
-  🧾 <b>Analysis of Bangla Transformation of Sentences using Machine Learning</b><br>
-  <a href="https://aclanthology.org/2023.banglalp-1.30/" target="_blank">Read Paper</a>
-</div>
-
-<div style="background: rgba(124,58,237,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(124,58,237,0.2); transition: transform 0.2s;">
-  🧠 <b>Team Error Point – BLP 2023 Task 1: Violence Inciting Text Detection using ML</b><br>
+  📝 <b>Sentiment Analysis in Multilingual Context: Comparative Analysis of Machine Learning and Hybrid Deep Learning Models</b><br>
+  RK Das, M Islam, MM Hasan, S Razia, M Hassan, SA Khushbu<br>
+  Heliyon 9 (9), 62, 2023<br>
   <a href="https://www.sciencedirect.com/science/article/pii/S2405844023074893" target="_blank">Read Paper</a>
 </div>
 
-<div style="background: rgba(255,165,0,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(255,165,0,0.2); transition: transform 0.2s;">
-  💬 <b>Multi-Supervised LSTM for Bangla Text Sentiment Analysis</b><br>
-  <a href="https://aclanthology.org/2023.banglalp-1.44/" target="_blank">Read Paper</a>
-</div>
-
-<div style="background: rgba(128,0,128,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(128,0,128,0.2); transition: transform 0.2s;">
-  🧩 <b>Sentiment Analysis of Bangla Language Using a New Approach</b><br>
-  <a href="https://www.sciencedirect.com/science/article/pii/S2405844023074893?ssrnid=4401921&dgcid=SSRN_redirect_SD" target="_blank">Read Paper</a>
-</div>
-
-<div style="background: rgba(255,0,0,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(255,0,0,0.2); transition: transform 0.2s;">
-  ⚙️ <b>Enhancing Sentiment Analysis in Bengali Texts: A Hybrid Approach</b><br>
-  <a href="https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/18534" target="_blank">Read Paper</a>
-</div>
-
-<div style="background: rgba(138,43,226,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(138,43,226,0.2); transition: transform 0.2s;">
-  📚 <b>BTSD Dataset for Bangla Text Classification</b><br>
+<div style="background: rgba(124,58,237,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(124,58,237,0.2); transition: transform 0.2s;">
+  📊 <b>BTSD: A Curated Transformation of Sentence Dataset for Text Classification in Bangla Language</b><br>
+  RK Das, M Islam, SA Khushbu<br>
+  Data in Brief 50, 109445, 2023<br>
   <a href="https://www.sciencedirect.com/science/article/pii/S2352340923005450" target="_blank">Read Paper</a>
 </div>
 
+<div style="background: rgba(255,165,0,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(255,165,0,0.2); transition: transform 0.2s;">
+  💡 <b>Analysis of Bangla Transformation of Sentences using Machine Learning</b><br>
+  RK Das, SS Sammi, K Kobra, MR Ajmain, SA Khushbu, SRH Noori<br>
+  International Conference on Deep Learning, Artificial Intelligence and …, 2022<br>
+  <a href="https://aclanthology.org/2023.banglalp-1.30/" target="_blank">Read Paper</a>
+</div>
+
+<div style="background: rgba(128,0,128,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(128,0,128,0.2); transition: transform 0.2s;">
+  🧠 <b>Prediction of Bangladeshi Urban Children's Mental Health for the Effect of Mobile Gaming Using Machine Learning</b><br>
+  T Hasan, MZ Bonny, RK Das, S Sultana, MT Islam, A Sattar<br>
+  International Journal on Advanced Science, Engineering & Information …, 2024<br>
+  <a href="https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/18534" target="_blank">Read Paper</a>
+</div>
+
+<div style="background: rgba(255,0,0,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(255,0,0,0.2); transition: transform 0.2s;">
+  ⚙️ <b>Team Error Point at BLP-2023 Task 1: Violence Inciting Text Detection using Deep Learning and Traditional Machine Learning Algorithm</b><br>
+  R Das, J Maowa, M Ajmain, K Yeiad, M Islam, S Khushbu<br>
+  Proceedings of the First Workshop on Bangla Language Processing (BLP-2023), 2023<br>
+  <a href="https://aclanthology.org/2023.banglalp-1.44/" target="_blank">Read Paper</a>
+</div>
+
+<div style="background: rgba(138,43,226,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(138,43,226,0.2); transition: transform 0.2s;">
+  📚 <b>Team Error Point at BLP-2023 Task 2: A Comparative Exploration of Hybrid Deep Learning and Machine Learning Approach for Advanced Sentiment Analysis Techniques</b><br>
+  R Das, K Yeiad, M Ajmain, J Maowa, M Islam, S Khushbu<br>
+  Proceedings of the First Workshop on Bangla Language Processing (BLP-2023), 2023<br>
+  <a href="https://aclanthology.org/2023.banglalp-1.44/" target="_blank">Read Paper</a>
+</div>
+
 <div style="background: rgba(255,215,0,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(255,215,0,0.2); transition: transform 0.2s;">
-  📝 <b>LSTM-ANN Based Price Hike Sentiment Analysis from Bangla Social Media Comments</b><br>
+  🤖 <b>Hybrid Deep Learning: A Comparative Study on AI Algorithms in Natural Language Processing for Text Classification</b><br>
+  MM Hasan, RK Das, M Hassan, S Razia, JF Ani, SA Khushbu, M Islam<br>
+  Bulletin of Electrical Engineering and Informatics 14 (1), 551-559, 2023<br>
   <a href="https://beei.org/index.php/EEI/article/view/7617" target="_blank">Read Paper</a>
 </div>
 
-<div style="background: rgba(173,216,230,0.05); padding: 12px; border-radius: 10px; border: 1px solid rgba(173,216,230,0.2); transition: transform 0.2s;">
-  💡 <b>Bangla Text Sentiment Analysis Using Supervised ML with Extended Lexicon Dictionary</b><br>
-  <a href="https://www.sciencedirect.com/science/article/pii/S2405844023074893?ssrnid=4401921&dgcid=SSRN_redirect_SD" target="_blank">Read Paper</a>
 </div>
-
-</div>
-
 
 ---
 ### 🧩 GitHub Stats
