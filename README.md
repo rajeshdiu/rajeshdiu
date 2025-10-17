@@ -27,17 +27,26 @@
 
 ---
 
+### ✉️ Contact & Links
+
+- 📍 Dhaka, Bangladesh  
+- ✉️ Email: [rajeshcpi1212@gmail.com](mailto:rajeshcpi1212@gmail.com)  
+- 📱 Phone: +8801862052815  
+- 🌐 Portfolio: `https://your-portfolio-url.com`  
+- GitHub: https://github.com/rajeshdiu  
+- LinkedIn: https://www.linkedin.com/in/rajeshitor/  
+- YouTube: https://www.youtube.com/c/CreativeCodersbd
+
+---
+
 ### 🧠 About Me
 
 🎓 **BSc in Computer Science & Engineering (CSE)** — *Daffodil International University*  
-🌍 **Location:** Dhaka, Bangladesh  
-📧 **Email:** [rajeshcpi1212@gmail.com](mailto:rajeshcpi1212@gmail.com)  
+💡 I’m a motivated developer and researcher focused on:
 
-💡 **Core Interests:**  
-- Machine Learning, NLP, Deep Learning, Computer Vision  
-- Django & REST API Development  
-- AI-Integrated Web Applications  
-- Academic & Industrial Project Mentoring  
+- 🧠 Machine Learning, NLP, Deep Learning, Computer Vision  
+- 🖥️ Django & REST API Development  
+- 🎓 Academic & Industrial-level Project Mentoring  
 
 🌱 **Currently working as:**  
 - **Lead Trainer** – *Web Application Development with Python (NSDA Project)*  
@@ -65,51 +74,52 @@
 
 ---
 
-### 🎯 Career Summary
+### 📚 Projects
 
-With a strong foundation in **computer engineering**, I bring together **academic research** and **real-world software development** to design innovative, data-driven systems.  
-Over the years, I have developed a deep interest in **AI-based web development**, where I integrate **Django, React, and Machine Learning** to build intelligent and efficient applications.  
+🚧 **Built with Python, Django, REST Framework, React & Machine Learning**
 
-As a **trainer and mentor**, I have guided numerous learners in mastering full-stack technologies, debugging complex systems, and deploying scalable solutions. My research publications in international venues highlight my commitment to continuous learning and scientific contribution.  
-
-I aim to leverage my skills in **AI and software engineering** to develop impactful solutions that bridge the gap between **research and real-world innovation**.  
+| Project | Description | Year | Technology |
+|---------|-------------|------|------------|
+| 🎓 **School Management System** | Full-featured web system for managing school data | 2021 | Python, Django, DRF, MySQL, Bootstrap |
+| 💼 **Job Portal Management System** | Job posting & application platform for recruiters and seekers | 2022 | Python, Django, DRF, React |
+| 🏫 **Student Management System** | Web app for managing academic grades | 2022 | Python, Django, DRF, PostgreSQL |
+| 🍳 **Employee Management System** | Employee management platform with CRUD operations | 2022 | Python, Django, DRF, Bootstrap |
+| 💬 **Online Review Classification** | ML model for sentiment classification | 2023 | Python, Scikit-learn, NLP |
+| ⚽ **BPL Team Winner Prediction** | Predicts winners using ML algorithms | 2023 | Python, Pandas, Scikit-learn |
+| 🤖 **Bangla Text Sentiment Analysis (LSTM)** | Deep Learning-based sentiment analyzer | 2023 | Python, TensorFlow, Keras |
+| 🏥 **Hospital Management System** | App for patient records, appointments & billing | 2023 | Python, Django, DRF, React, PostgreSQL |
+| 🛒 **E-commerce Web App** | Shopping platform with cart, payment & dashboard | 2023 | Python, Django, DRF, React, Stripe |
+| 🌐 **Social Media Dashboard** | Dashboard to track engagement & analytics | 2023 | Python, Django, React, Chart.js |
+| 🤖 **AI Chatbot** | NLP-based chatbot integrated with web UI | 2024 | Python, Django, React, TensorFlow |
 
 ---
 
-### 🏆 Awards & Research Highlights
+### 🏆 Awards & Certifications
 
 - 🥇 **1st Prize** – BITM Project Competition (School Management System)  
 - 🧠 **Heliyon (Elsevier, Q1 Journal)** – Multilingual Sentiment Analysis  
 - 📘 **Data in Brief (Elsevier, Q2 Journal)** – Curated Bangla Dataset  
 - 🧩 **BLP-2023 Workshop (EMNLP)** – Deep Learning in NLP Tasks  
 - 🧑‍🏫 **Certified Trainer & Assessor** – ILO & NSDA  
+- 🔖 Certifications: BITM SEIP, HackerRank (SQL, Problem Solving), DataMites Bootcamp
 
 ---
 
-### 🌐 Connect With Me
+### 📖 Research Publications
 
 <p align="center">
-  <a href="https://github.com/rajeshdiu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rajeshitor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/c/CreativeCodersbd"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajeshdiu&color=blueviolet&style=for-the-badge" />
-</p>
-
-
-### 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/rajeshdiu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rajeshitor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/rajeshdasitor/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/rajeshitor1212/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/rajeshitor"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.youtube.com/c/CreativeCodersbd"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S2405844023074893" target="_blank">
+    <img alt="Heliyon 2023" src="https://img.shields.io/badge/Heliyon-2023-green?style=for-the-badge&logo=elsevier" />
+  </a>
+  <a href="https://aclanthology.org/2023.banglalp-1.44/" target="_blank">
+    <img alt="BanglaLP 2023" src="https://img.shields.io/badge/BanglaLP-2023-orange?style=for-the-badge&logo=acm" />
+  </a>
+  <a href="https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/18534" target="_blank">
+    <img alt="IJASEIT 2023" src="https://img.shields.io/badge/IJASEIT-2023-red?style=for-the-badge&logo=researchgate" />
+  </a>
+  <a href="https://beei.org/index.php/EEI/article/view/7617" target="_blank">
+    <img alt="BEEI 2023" src="https://img.shields.io/badge/BEEI-2023-yellow?style=for-the-badge&logo=researchgate" />
+  </a>
 </p>
 
 ---
