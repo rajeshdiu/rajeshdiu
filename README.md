@@ -32,8 +32,7 @@
 - 📍 Dhaka, Bangladesh  
 - ✉️ Email: [rajeshcpi1212@gmail.com](mailto:rajeshcpi1212@gmail.com)  
 - 📱 Phone: +8801862052815  
-- 🌐 Portfolio: `https://your-portfolio-url.com`  
-- GitHub: https://github.com/rajeshdiu  
+- 🌐 Portfolio: 
 - LinkedIn: https://www.linkedin.com/in/rajeshitor/  
 - YouTube: https://www.youtube.com/c/CreativeCodersbd
 
@@ -96,12 +95,12 @@
 
 ### 🏆 Awards & Certifications
 
-- 🥇 **1st Prize** – BITM Project Competition (School Management System)  
-- 🧠 **Heliyon (Elsevier, Q1 Journal)** – Multilingual Sentiment Analysis  
-- 📘 **Data in Brief (Elsevier, Q2 Journal)** – Curated Bangla Dataset  
-- 🧩 **BLP-2023 Workshop (EMNLP)** – Deep Learning in NLP Tasks  
-- 🧑‍🏫 **Certified Trainer & Assessor** – ILO & NSDA  
-- 🔖 Certifications: BITM SEIP, HackerRank (SQL, Problem Solving), DataMites Bootcamp
+-  **1st Prize** – BITM Project Competition (School Management System)  
+-  **Heliyon (Elsevier, Q1 Journal)** – Multilingual Sentiment Analysis  
+-  **Data in Brief (Elsevier, Q2 Journal)** – Curated Bangla Dataset  
+-  **BLP-2023 Workshop (EMNLP)** – Deep Learning in NLP Tasks  
+-  **Certified Trainer & Assessor** – ILO & NSDA  
+-  Certifications: BITM SEIP, HackerRank (SQL, Problem Solving), DataMites Bootcamp
 
 ---
 
